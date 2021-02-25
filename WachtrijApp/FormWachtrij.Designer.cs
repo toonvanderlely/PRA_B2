@@ -46,9 +46,9 @@
             this.labelTitel.Location = new System.Drawing.Point(35, 22);
             this.labelTitel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelTitel.Name = "labelTitel";
-            this.labelTitel.Size = new System.Drawing.Size(153, 40);
+            this.labelTitel.Size = new System.Drawing.Size(191, 40);
             this.labelTitel.TabIndex = 0;
-            this.labelTitel.Text = "Bug Hero";
+            this.labelTitel.Text = "Debug Hero";
             // 
             // labelWachttijd
             // 
@@ -133,7 +133,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormWachtrij";
-            this.Text = "Bug Hero";
+            this.Text = "Debug Hero";
             ((System.ComponentModel.ISupportInitialize)(this.AttractieLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
