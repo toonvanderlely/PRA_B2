@@ -117,6 +117,7 @@
             this.ClientSize = new System.Drawing.Size(279, 227);
             this.Controls.Add(this.labelKar1);
             this.Controls.Add(this.labelKar2);
+            this.Controls.Add(this.labelKar3);
             this.Controls.Add(this.AttractieLogo);
             this.Controls.Add(this.labelWachttijdMelding);
             this.Controls.Add(this.labelWachttijd);
