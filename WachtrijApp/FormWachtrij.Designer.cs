@@ -78,6 +78,16 @@
             this.AttractieLogo.TabIndex = 6;
             this.AttractieLogo.TabStop = false;
             this.AttractieLogo.Click += new System.EventHandler(this.AttractieLogo_Click);
+            //
+            // labelKar3
+            // 
+            this.labelKar3.AutoSize = true;
+            this.labelKar3.Font = new System.Drawing.Font("Calibri", 11.25F);
+            this.labelKar3.Location = new System.Drawing.Point(29, 87);
+            this.labelKar3.Name = "labelKar3";
+            this.labelKar3.Size = new System.Drawing.Size(57, 18);
+            this.labelKar3.TabIndex = 8;
+            this.labelKar3.Text = "Kar 3: ...";
             // 
             // labelKar2
             // 
@@ -126,6 +136,7 @@
         private System.Windows.Forms.Label labelWachttijd;
         private System.Windows.Forms.Label labelWachttijdMelding;
         private System.Windows.Forms.PictureBox AttractieLogo;
+        private System.Windows.Forms.Label labelKar3;
         private System.Windows.Forms.Label labelKar2;
         private System.Windows.Forms.Label labelKar1;
     }
