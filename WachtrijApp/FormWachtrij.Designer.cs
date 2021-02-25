@@ -33,6 +33,7 @@
             this.labelWachttijd = new System.Windows.Forms.Label();
             this.labelWachttijdMelding = new System.Windows.Forms.Label();
             this.AttractieLogo = new System.Windows.Forms.PictureBox();
+            this.labelKar3 = new System.Windows.Forms.Label();
             this.labelKar2 = new System.Windows.Forms.Label();
             this.labelKar1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.AttractieLogo)).BeginInit();
